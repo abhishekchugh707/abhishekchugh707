@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchugh707&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchugh707" style="border-radius: 15px;"/> </p>
 
-- 🔭 I’m currently working on **Data Migration**
+- 👨🏻‍💻 I’m currently working on **Data Migration**
 
-- 🌱 I’m currently studying **Software Engineering**
+- 🧑🏻‍🎓 I’m currently studying **Software Engineering**
 
-- 🤝 I’m looking for **Working Student Positions**
+- 🔍 I’m looking for **Working Student Positions**
 
 - 💬 Ask me about **Programming, Web & Android development**
 
