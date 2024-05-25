@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi, I'm Abhishek</h1>
-<h3 align="center">IT student at Uni Stuttgart with strong programming, Web & Android development experience</h3>
+<h1 align="left">Hi, I'm Abhishek</h1>
+<h3 align="left">IT student at Uni Stuttgart with strong programming, Web & Android development experience</h3>
 
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
