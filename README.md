@@ -1,23 +1,23 @@
 
 
 <h1 align="left">Hi, I'm Abhishek</h1>
-<h3 align="left">IT student at Uni Stuttgart with strong programming, Web & Android development experience</h3>
+<h3 align="left">IT student with hands-on experience in full-stack projects, CI/CD, and scalable systems</h3>
 
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchugh707&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchugh707" style="border-radius: 15px;"/> </p>
 
-- 👨🏻‍💻 I’m currently working on **Software Development & Site Simulation**
+-  I’m currently working on **Software Development & Site Simulation**
 
-- 🧑🏻‍🎓 I’m currently studying **Software Engineering**
+-  I’m currently studying **Software Engineering**
 
-- 🔍 I’m looking for **Working Student Positions**
+-  I’m looking for **Software Developer Positions**
 
-- 💬 Ask me about **Programming, Web & Android development**
+-  Ask me about **Programming, Web & Android development**
 
-- 📫 How to reach me **abhishekchugh707@gmail.com**
+-  How to reach me **abhishekchugh707@gmail.com**
 
-- ⚡ Fun fact **I cook!**
+-  Fun fact **I cook!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
