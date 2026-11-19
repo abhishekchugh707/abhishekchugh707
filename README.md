@@ -11,4 +11,4 @@ Full stack developer with 3+ years of experience building production software, f
 Python, Java, TypeScript, SQL · FastAPI, Spring Boot, Node.js · Angular, React · PostgreSQL, TimescaleDB · Docker, CI/CD, MLflow, Git, Linux
 
 **Contact**
-[LinkedIn](https://www.linkedin.com/in/abhishekchugh707) · [Portfolio](https://abhishekchugh707.github.io/portfolio/) · abhishekchugh707@gmail.com
+[LinkedIn](https://www.linkedin.com/in/abhishekchugh707) · [Portfolio](https://abhishekchugh707.github.io/) · abhishekchugh707@gmail.com
